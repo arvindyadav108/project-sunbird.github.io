@@ -9,3 +9,5 @@ allowSearch: true
 keywords: SSO, single sign on, single signon, singlesignon, sign in, SMS, sms, otp, OTP, Keycloak
 ---
 
+Please follow below steps to do SMS text configuration in keycloak.
+
